@@ -1,6 +1,6 @@
 # rg_resume
-
-#Things to Use
-LaTex
-Jenkins
-Chef (Ruby)
+## Developer (DevOps)
+### Things to Use
+- Repo: Git
+- CI Tool: Jenkins
+- Deployment Tool: Chef (Ruby)
